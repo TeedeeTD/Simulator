@@ -1,0 +1,5 @@
+p
+stop
+ndbsd
+ndb
+priority
